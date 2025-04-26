@@ -1,7 +1,6 @@
 import React from "react";
 import Image from "next/image";
 import LinesBgImage from "../../assets/images/background.svg";
-import Typewriter from "typewriter-effect";
 import useWindowSize from "@/common/useWindowDimensions";
 import Link from "next/link";
 
