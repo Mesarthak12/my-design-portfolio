@@ -1,0 +1,50 @@
+<svg width="1440" height="768" viewBox="0 0 1440 768" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_330_2734)">
+<path d="M24 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M88 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M152 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M216 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M280 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M344 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M408 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M472 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M536 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M600 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M664 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M728 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M792 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M856 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M920 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M984 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M1048 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M1112 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M1176 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M1240 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M1304 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M1368 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M1432 -140V752" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<g clip-path="url(#clip1_330_2734)">
+<path d="M0 768L1440 768" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M0 704L1440 704" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M0 640L1440 640" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M0 576L1440 576" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M0 512L1440 512" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M0 448L1440 448" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M0 384L1440 384" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M0 320L1440 320" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M0 256L1440 256" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M0 192L1440 192" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M0 128L1440 128" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M0 64L1440 64" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+<path d="M0 0L1440 0" stroke="black" stroke-opacity="0.2" stroke-width="0.5"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_330_2734">
+<path d="M0 0H1440V348C1440 579.96 1251.96 768 1020 768H420C188.04 768 0 579.96 0 348V0Z" fill="white"/>
+</clipPath>
+<clipPath id="clip1_330_2734">
+<rect width="768" height="1440" fill="white" transform="matrix(0 -1 1 0 0 768)"/>
+</clipPath>
+</defs>
+</svg>
