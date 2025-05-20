@@ -1,8 +1,8 @@
 export const EXPERIENCE_CONFIG = [
   {
-    role: "Product Designer ",
+    role: "Product Designer Consultant",
     company: "Rakuten India",
-    duration: "Nov 2023 - Present",
+    duration: "Nov 2022 - Present",
     details: [
       "Led end-to-end product design for enterprise tools including LMS, HRMS, SaaS, internal communication platforms, and FTE tracking systems.",
 
@@ -20,7 +20,7 @@ export const EXPERIENCE_CONFIG = [
     ],
   },
   {
-    role: "Product Designer",
+    role: "User Experience Designer",
     company: "Surgyy Design",
     duration: "Feb 2022 - Nov 2022",
     details: [

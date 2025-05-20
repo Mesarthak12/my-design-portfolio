@@ -49,7 +49,7 @@ const Home = () => {
             </div>
             <div>
               <Link href={"#contact"}>
-                <button className="text-[#03045E] mt-20 w-[158px] h-[64px] !bg-[#FFFFFF] border rounded-lg transition duration-300 ease-in-out transform hover:scale-110">
+                <button className="text-[#03045E] mt-20 w-[158px] cursor-pointer h-[64px] !bg-[#FFFFFF] border rounded-lg transition duration-300 ease-in-out transform hover:scale-110">
                   <h1 className="font-medium text-xl font-poppins">
                     Get in Touch
                   </h1>

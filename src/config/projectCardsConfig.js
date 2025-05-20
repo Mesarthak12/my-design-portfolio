@@ -7,7 +7,7 @@ export const PROJECT_CARDS = [
     image: Image1,
     title: "My Work @ Rakuten",
     description:
-      "I'm Cindrella M dsouza, a Product Designer with 3+ years of experience, having worked at Rakuten India. I have contributed to LMS,  SaaS, and multiple projects, specializing in user-centric design and seamless digital experiences.",
+      "I’m a Product Designer with 3+ years of experience at Rakuten India, contributing to multiple SaaS projects. Here’s a quick glimpse of my current company work — access required, so feel free to request it via the link below!",
   },
   {
     image: Image2,
@@ -30,6 +30,7 @@ export const PROJECT_CARDS = [
     title: "Aesthete ",
     description:
       "Asthete is a beauty service booking app that lets users explore makeup glam and beauty options anytime, anywhere. It offers flexibility to select a preferred artist, choose a date and time, and book appointments seamlessly for a personalized experience.",
-    projectLink: "https://www.w3schools.com/",
+    projectLink:
+      "https://www.behance.net/gallery/135142603/Ux-Case-Study-Makeup-Artist",
   },
 ];

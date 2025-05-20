@@ -13,8 +13,9 @@ const Projects = () => {
         </div>
         <div className="mt-2">
           <h1 className="text-black font-normal text-base font-poppins">
-            Here are a few past design projects I have worked on, including
-            client work, personal explorations, and self-initiated projects.
+            Here are a few past design projects that I have worked on, including
+            personal explorations, self-initiated projects and my current
+            company work.
           </h1>
         </div>
       </div>

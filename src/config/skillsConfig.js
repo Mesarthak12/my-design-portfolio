@@ -1,42 +1,34 @@
 export const SKILL_CONFIG = [
-  {
-    skill: "User Research",
-  },
-  {
-    skill: " Prototyping",
-  },
-  {
-    skill: "Usability Testing",
-  },
+  { skill: "User Research" },
+  { skill: "Prototyping" },
+  { skill: "Usability Testing" },
   { skill: "Typography" },
-  {
-    skill: "Design System",
-  },
-  {
-    skill: "Information Architecture",
-  },
-  {
-    skill: "Figma",
-  },
-  {
-    skill: "Responsive Design",
-  },
-  {
-    skill: "Notion",
-  },
-  {
-    skill: "Design Components",
-  },
-  {
-    skill: "Ux Case Study",
-  },
-  {
-    skill: "Interaction Design",
-  },
-  {
-    skill: "Wireframing",
-  },
-  {
-    skill: "Mobile App UX",
-  },
+  { skill: "Design System" },
+  { skill: "Information Architecture" },
+  { skill: "Figma" },
+  { skill: "Responsive Design" },
+  { skill: "Notion" },
+  { skill: "Design Components" },
+  { skill: "Ux Case Study" },
+  { skill: "Interaction Design" },
+  { skill: "Wireframing" },
+  { skill: "Mobile App UX" },
+  { skill: "Adobe XD" },
+  { skill: "Webflow" },
+  { skill: "Protopie" },
+  { skill: "Adobe After Effects" },
+  { skill: "Adobe Photoshop" },
+  { skill: "Adobe Illustrator" },
+  { skill: "Trello" },
+  { skill: "UI Design" },
+  { skill: "UX Design" },
+  { skill: "Visual Design" },
+  { skill: "Storyboarding" },
+  { skill: "User Personas" },
+  { skill: "User Flows" },
+  { skill: "Website & App Design" },
+  { skill: "Mobile responsive design" },
+  { skill: "Illustrations" },
+  { skill: "HTML & CSS" },
+  { skill: "Javascript(basic)" },
 ];

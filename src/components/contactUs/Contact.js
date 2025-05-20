@@ -10,7 +10,7 @@ const Contact = () => {
         <div className="flex justify-center">
           <div className="mt-2 w-[731px] text-black font-poppins font-normal text-base/[24px]">
             What’s Next? Feel Free To Reach Out To Me If You Are Looking For A
-            Developer, Have A Query, Or Simply Want To Connect.
+            Designer, Have A Query, Or Simply Want To Connect.
           </div>
         </div>
         <div className="flex justify-center">

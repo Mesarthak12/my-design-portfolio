@@ -17,7 +17,7 @@ const Footer = () => {
             Cindrella M Dsouza
           </div>
           <div className="text-black font-poppins text-base font-normal">
-            Thanks for stopping by! Visit again for more Designs crafting and
+            Thanks for stopping by! Visit again for more Designs craft and
             creations.
           </div>
         </div>
@@ -68,8 +68,8 @@ const Footer = () => {
             <Image src={Icon} alt="" />
           </div>
           <div>
-            2025 | Designed with ❤️️ by Cindrella Dsouza and Coded by Sarthak
-            Jain
+            2025 | Designed with ❤️ by Cindrella Dsouza and developed in
+            collaboration with a developer
           </div>
         </div>
       </div>
