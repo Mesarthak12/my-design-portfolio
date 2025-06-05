@@ -32,7 +32,7 @@ const Home = () => {
                 <span className="text-[#03045E] font-semibold">
                   Cindrella M Dsouza{" "}
                 </span>{" "}
-                a passionate Product Designer with 3+ years of experience
+                a passionate Product Designer with 4+ years of experience
               </h1>
             </div>
             <div className="">

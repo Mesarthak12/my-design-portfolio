@@ -7,7 +7,7 @@ export const PROJECT_CARDS = [
     image: Image1,
     title: "My Work @ Rakuten",
     description:
-      "I’m a Product Designer with 3+ years of experience at Rakuten India, contributing to multiple SaaS projects. Here’s a quick glimpse of my current company work — access required, so feel free to request it via the link below!",
+      "I’m a Product Designer with 4+ years of experience at Rakuten India, contributing to multiple SaaS projects. Here’s a quick glimpse of my current company work — access required, so feel free to request it via the link below!",
   },
   {
     image: Image2,
