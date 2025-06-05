@@ -22,7 +22,7 @@ export const EXPERIENCE_CONFIG = [
   {
     role: "User Experience Designer",
     company: "Surgyy Design",
-    duration: "Feb 2022 - Nov 2022",
+    duration: "June 2021 - Nov 2022",
     details: [
       "Designed both e-commerce and non-commerce creative website and app layouts.",
 

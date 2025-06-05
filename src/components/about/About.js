@@ -68,12 +68,12 @@ const About = () => {
         <div className="flex justify-center w-full">
           <div className="w-[824px] mt-12 text-black font-poppins font-normal text-base text-justify">
             As a Product Designer with over{" "}
-            <span className="font-semibold">three years</span> of experience, I
+            <span className="font-semibold">four years</span> of experience, I
             have developed a strong foundation in creating user-centric and
             visually engaging digital experiences. My work focuses on balancing
             aesthetics with functionality, ensuring that design solutions not
             only look appealing but also solve real user problems effectively.
-            Over the past three years, I have honed my skills in areas such as
+            Over the past four years, I have honed my skills in areas such as
             user research, wireframing, prototyping, and interaction design,
             enabling me to create intuitive interfaces that enhance the overall
             user experience.
